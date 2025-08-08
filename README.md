@@ -1,6 +1,6 @@
 # Google Play Store App Analytics Dashboard
 
-## ## Table of Content
+## Table of Content
 
 - [Project Overview](#project-overview)
 -	[Key Business Questions](#key-business-questions)
@@ -40,7 +40,7 @@ D.	Update Behavior
 - Are larger apps getting more installs or better reviews?
 
 ## Data Description
--	App Play store raw dataset
+-	<a href=https://github.com/Maggy317/App-Store-Analytics>App_Play_Store_raw_dataset</a>
 -	App Play store cleaned dataset
 
 ## Tools Used
