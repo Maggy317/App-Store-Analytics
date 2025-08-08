@@ -2,15 +2,15 @@
 
 ## ## Table of Content
 
-- (Project Overview)[#project-overview]
--	(Key Business Questions)[#key-business-questions]
--	(Data Description)[#data-description[
--	(Tools Used)[#tools-used]
--	(Dashboard Overview)[#dashboard-overview]
--	(Visuals)[#visuals]
--	(Key Strategy Groups)[#key-strategy-groups]
--	(Outcome)[#outcome]
--	(Author)[#author]
+- [Project Overview](#project-overview)
+-	[Key Business Questions](#key-business-questions)
+-	[Data Description](#data-description)
+-	[Tools Used](#tools-used)
+-	[Dashboard Overview](#dashboard-overview)
+-	[Visuals](#visuals)
+-	[Key Strategy Groups](#key-strategy-groups)
+-	[Outcome](#outcome)
+-	[Author](#author)
 
 ## Project Overview
 This Project explores insights from a public dataset of Android apps on the Google play store.  Using Excel and Power BI , I performed cleaning, visual analysis, and strategic recommendations based on metrics like installs, ratings, reviews, pricing and more.
