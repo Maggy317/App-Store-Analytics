@@ -2,9 +2,9 @@
 
 ## ## Table of Content
 
--	(Project Overview)[#project-overview]
+- (Project Overview)[#project-overview]
 -	(Key Business Questions)[#key-business-questions]
--	(Data Description)[#data-description]
+-	(Data Description)[#data-description[
 -	(Tools Used)[#tools-used]
 -	(Dashboard Overview)[#dashboard-overview]
 -	(Visuals)[#visuals]
@@ -16,28 +16,28 @@
 This Project explores insights from a public dataset of Android apps on the Google play store.  Using Excel and Power BI , I performed cleaning, visual analysis, and strategic recommendations based on metrics like installs, ratings, reviews, pricing and more.
 
 ## Key Business Questions
-A.	App Overview
-1.	What is the total number of apps?
-2.	What percentage of app are free vs. paid?
-3.	Which app category dominates in quantity and popularity?
-4.	What is the average rating of all apps?
-5.	Which app are the most installed?
+A. App OvervieW
+- What is the total number of apps?
+- What percentage of app are free vs. paid?
+- Which app category dominates in quantity and popularity?
+- What is the average rating of all apps?
+- Which app are the most installed?
 
 B.	Pricing Strategy
-6.	What is the average price of paid apps?
-7.	How many apps are priced above $5, and are they worth it based on rating and installs?
-8.	Is there a pricing trend based on app category or size?
+- What is the average price of paid apps?
+- How many apps are priced above $5, and are they worth it based on rating and installs?
+- Is there a pricing trend based on app category or size?
 
 C.	Performance & Popularity
-9.	Is there a correlation between app rating and number of install?
-10.	Do high-rated apps also have high reviews or installs?
-11.	Which app rank highest in installs but lowest in rating (or vice versa)?
+- Is there a correlation between app rating and number of install?
+- Do high-rated apps also have high reviews or installs?
+- Which app rank highest in installs but lowest in rating (or vice versa)?
 
 D.	Update Behavior
-12.	How often are top-performing apps updated?
-13.	Which Update frequency correlates with high installs or better rating?
-14.	How does content rating relates to installs?
-15.	Are larger apps getting more installs or better reviews?
+- How often are top-performing apps updated?
+- Which Update frequency correlates with high installs or better rating?
+- How does content rating relates to installs?
+- Are larger apps getting more installs or better reviews?
 
 ## Data Description
 -	App Play store raw dataset
