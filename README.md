@@ -49,8 +49,8 @@ D.	Update Behavior
 -	DAX (KPI metrics & calculations)
 
 ## Dashboard Overview
--	Playstore_App_Analytics.pbix
--	Playstore_App_Analytics.xlsx
+-	<a href=https://github.com/Maggy317/App-Store-Analytics/blob/main/App%20Store%20Dashboard.pbix.pbix>Playstore_App_Dashboard</a>
+-	Playstore_KPIs_Summary
 
 ## Visuals
 -	Strategies summary visuals.png
