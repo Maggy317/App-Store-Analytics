@@ -54,7 +54,7 @@ D.	Update Behavior
 
 ## Visuals
 -	<a href=https://github.com/Maggy317/App-Store-Analytics/blob/main/Play_Store_dashboard/Play_app_store.png>App_Play_Store</a>
--	Recommendation_Insight_Summary
+-	<a href=https://github.com/Maggy317/App-Store-Analytics/blob/main/Play_Store_dashboard/Play_App_Store_Dashboard.png>Recommendation_Insight_Summary</a>
 
 ## Key Strategy Groups
 ### 1. **App Category Strategy**
