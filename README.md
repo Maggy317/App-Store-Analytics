@@ -41,7 +41,7 @@ D.	Update Behavior
 
 ## Data Description
 -	<a href=https://github.com/Maggy317/App-Store-Analytics>App_Play_Store_raw_dataset</a>
--	App Play store cleaned dataset
+-	<a href=https://github.com/Maggy317/App-Store-Analytics/blob/main/Play_App_Cleaned_xlsx.xlsx>App_Play_store_cleaned_dataset</a>
 
 ## Tools Used
 -	Excel (data cleaning & transformation)
