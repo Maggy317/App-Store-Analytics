@@ -50,11 +50,11 @@ D.	Update Behavior
 
 ## Dashboard Overview
 -	<a href=https://github.com/Maggy317/App-Store-Analytics/blob/main/App%20Store%20Dashboard.pbix.pbix>Playstore_App_Dashboard</a>
--	Playstore_KPIs_Summary
+-	<a href=https://github.com/Maggy317/App-Store-Analytics/blob/main/Play_App_KPIs_Summary.xlsx>Playstore_KPIs_Summary</a>
 
 ## Visuals
--	Strategies summary visuals.png
--	Playstore_App_Analytics.png
+-	App_Play_Store
+-	Recommendation_Insight_Summary
 
 ## Key Strategy Groups
 ### 1. **App Category Strategy**
