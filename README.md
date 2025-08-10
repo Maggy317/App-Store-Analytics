@@ -53,7 +53,7 @@ D.	Update Behavior
 -	<a href=https://github.com/Maggy317/App-Store-Analytics/blob/main/Play_App_KPIs_Summary.xlsx>Playstore_KPIs_Summary</a>
 
 ## Visuals
--	App_Play_Store
+-	<a href=https://github.com/Maggy317/App-Store-Analytics/blob/main/Play_Store_dashboard/Play_app_store.png>App_Play_Store</a>
 -	Recommendation_Insight_Summary
 
 ## Key Strategy Groups
