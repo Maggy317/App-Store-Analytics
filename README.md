@@ -40,7 +40,7 @@ D.	Update Behavior
 - Are larger apps getting more installs or better reviews?
 
 ## Data Description
--	<a href=https://github.com/Maggy317/App-Store-Analytics>App_Play_Store_raw_dataset</a>
+-	<a href=https://github.com/Maggy317/App-Store-Analytics/blob/main/Play_App_Raw_xlsx.xlsx>App_Play_Store_raw_dataset</a>
 -	<a href=https://github.com/Maggy317/App-Store-Analytics/blob/main/Play_App_Cleaned_xlsx.xlsx>App_Play_store_cleaned_dataset</a>
 
 ## Tools Used
